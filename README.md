@@ -13,7 +13,7 @@ This is a simple weather application that displays the current weather, date, an
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/weather.github.io.git
+    git clone https://github.com/Siddanagowda/weather.github.io.git
     ```
 2. Navigate to the project directory:
     ```sh
